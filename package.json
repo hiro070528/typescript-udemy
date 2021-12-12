@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hiro070528/typescript-udemy/issues"
   },
-  "homepage": "https://github.com/hiro070528/typescript-udemy#readme"
+  "homepage": "https://github.com/hiro070528/typescript-udemy#readme",
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  }
 }
